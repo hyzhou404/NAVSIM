@@ -3,6 +3,7 @@
 **/__pycache__/
 .pytest_cache/*
 .pydevproject
+build/
 
 # IDE
 .vscode/*
@@ -17,3 +18,7 @@
 *.pcd
 
 ckpts
+outputs
+# pixi environments
+.pixi
+*.egg-info
