@@ -17,7 +17,8 @@ The implementation is based on:
 
 # Installation
 
-Please refer to [NAVSIM](https://github.com/autonomousvision/navsim) installation instructions. 
+You can use `pixi install` to easily install the environment of LTF.
+The model weight of LTF can be downloaded from the official link: https://huggingface.co/autonomousvision/navsim_baselines/tree/main/ltf
 
 Please change ${NAVSIM_PATH} in ltf_e2e.sh as the path on your machine.
 
